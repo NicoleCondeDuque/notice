@@ -1,6 +1,6 @@
 {
   "root": true,
-  "ignorePatterns": ["projects/**/*"],
+  "ignorePatterns": [".eslintrc.js"],
   "overrides": [
     {
       "files": ["*.ts"],
